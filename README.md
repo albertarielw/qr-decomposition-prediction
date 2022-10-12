@@ -40,3 +40,5 @@ def QR_Decomposition_Gram_Schmidt(A):
 
     return (Q, R)     
 ```
+
+Here is the link for more implementation [link](https://github.com/albertarielw/qr-decomposition-prediction/blob/main/code/QR%20Decomposition%20(Our%20Own%20Implementation).py)
