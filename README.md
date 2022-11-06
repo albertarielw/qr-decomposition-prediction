@@ -1,4 +1,4 @@
-# qr-decomposition-prediction
+# QR Decomposition Algorithm
 
 # What is it?
 
@@ -8,6 +8,8 @@ This is performed on 3 case studies:
 - Effects of alcohol on happiness, 
 - Housing prices in the US,
 - Factors of happiness
+
+Read our report to learn more about this project [here](https://github.com/albertarielw/qr-decomposition-prediction/blob/main/Group%20Report.pdf).
 
 # Sample Implementation
 
